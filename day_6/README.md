@@ -1,4 +1,4 @@
-The 8 bit ALU designed to perform 8 different operations on two 8 bit numbers A and B.
+The 8 bit ALU is designed to perform 8 different operations on two 8 bit numbers A and B.
 
 | 3 bit code | Operation | description |
 | ---------- | --------- | ----------- |
