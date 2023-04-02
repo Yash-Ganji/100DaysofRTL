@@ -11,8 +11,8 @@ Software used - Xilinx Vivado
 | 3 | Flipflops (D and T FF) | [day 3](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_3) |
 | 4 | grey <-> binary code converter | [day 4](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_4) |
 | 5 | 4bit magnetude comparator | [day 5](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_5) |
-
-
+| 6 | 8 bit ALU | [day 6](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_6) |
+| 7 | Edge detector | [day 7](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_7) |
 
 
 
