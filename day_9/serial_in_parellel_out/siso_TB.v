@@ -16,10 +16,4 @@ module sipo_TB();
     
     always #5 clk = ~clk;
     always #10 s_in = $random%2;
-endmodule.
-
-+
-
-
-
-+
+endmodule
