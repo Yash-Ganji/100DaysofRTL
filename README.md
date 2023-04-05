@@ -13,7 +13,10 @@ Software used - Xilinx Vivado
 | 5 | 4bit magnetude comparator | [day 5](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_5) |
 | 6 | 8 bit ALU | [day 6](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_6) |
 | 7 | Edge detector | [day 7](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_7) |
-
+| 8 | Even and Odd parity generators | [day 8]() |
+| 9 | Shift registers (SISO, SIPO) | [day 9]() |
+| 10 | Shift registers (PISO, PIPO) | [day 10]() |
+| 11 | Shift registers (Bidirectional, Universal) | [day 11]() | 
 
 
 
