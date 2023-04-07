@@ -20,4 +20,7 @@ Software used - Xilinx Vivado
 
 
 
-Give feedback or suggest what module should I try next -> Email - yashganji.p@gmail.com
+Give feedback or suggest what module should I try next -> Email - yashganji.p@gmail.com      
+
+
+###### Inspired by [Rahul Behl](https://www.linkedin.com/in/raulbehl/)    
