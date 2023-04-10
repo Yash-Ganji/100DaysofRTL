@@ -13,10 +13,14 @@ Software used - Xilinx Vivado
 | 5 | 4bit magnetude comparator | [day 5](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_5) |
 | 6 | 8 bit ALU | [day 6](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_6) |
 | 7 | Edge detector | [day 7](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_7) |
-| 8 | Even and Odd parity generators | [day 8]() |
-| 9 | Shift registers (SISO, SIPO) | [day 9]() |
-| 10 | Shift registers (PISO, PIPO) | [day 10]() |
-| 11 | Shift registers (Bidirectional, Universal) | [day 11]() | 
+| 8 | Even and Odd parity generators | [day 8](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_8) |
+| 9 | Shift registers (SISO, SIPO) | [day 9](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_9) |
+| 10 | Shift registers (PISO, PIPO) | [day 10](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_10) |
+| 11 | Shift registers (Bidirectional, Universal) | [day 11](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_11) | 
+| 12 | LFSR (Linear Feedback Shift Register) | [day 12](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_12) |
+| 13 | Parellel to serial converter with empty and valid signals | [day 13](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_13) |
+| 14 | Serial to parellel converter with valid signal | [day 14](https://github.com/Yash-Ganji/100DaysofRTL/tree/main/day_14) |
+
 
 
 
