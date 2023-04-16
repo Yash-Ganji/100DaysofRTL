@@ -10,8 +10,8 @@ module seq_det_1011_mealy(in, clk, reset_n, out);
     parameter c = 2'b10;
     parameter d = 2'b11;
     
-    reg [1:0] cur_state;
-    reg [1:0] nxt_state;
+    reg [1:0] cur_state;      //current state
+    reg [1:0] nxt_state;      //next state
     
     //sequential state registring block.
     always @(posedge clk, negedge reset_n)
